@@ -28,3 +28,6 @@ The purpose of this project is to demonstrate and study library classes, such
 as ArrayList, HashMap, HashSet, and Random.
 
 This project is only a first, rudimentary step towards the full solution.
+
+24. Hashmaps are a combination of arraylists and variables, but they also allow you to strore values.
+25. parameters can be similar but keys cannot be similar since it can cause errors and complications (with overwritting).
