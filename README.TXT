@@ -32,3 +32,9 @@ This project is only a first, rudimentary step towards the full solution.
 24. Hashmaps are a combination of arraylists and variables, but they also allow you to strore values.
 25. parameters can be similar but keys cannot be similar since it can cause errors and complications (with overwritting).
 26. size() method.
+28. Overwrites previous value.
+29. Error.
+30. phoneBook.containsKey()
+31. null
+32. loop & KeySet()
+34. Collection and in addition duplicated aren't allowed in hash sets (which is critical about them)
